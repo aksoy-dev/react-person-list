@@ -1,0 +1,21 @@
+body {
+  background: url(assets/bg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.person-list {
+  width: 40% !important;
+  margin: auto;
+  margin-top: 5px;
+  border: 1px solid hsl(0, 1%, 44%);
+  box-shadow: 2px 2px 2px #1de9b6;
+}
+.inclusive {
+  margin-top: 55px;
+}
+.about-text {
+  word-wrap: break-word !important;
+  display: -webkit-box !important;
+  -webkit-line-clamp: 6 !important;
+  -webkit-box-orient: vertical !important;
+  overflow: hidden !important;
+}

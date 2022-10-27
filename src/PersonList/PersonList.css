@@ -1,0 +1,27 @@
+.img-person-list {
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 5px;
+}
+.person-name-list {
+  color: black;
+  font-family: "Times New Roman", Times, serif !important;
+}
+.person-name-list:hover {
+  color: rgb(40, 40, 108);
+  font-family: "Times New Roman", Times, serif !important;
+}
+.img-person {
+  min-width: 100px;
+  min-height: 100px;
+}
+.namesurname {
+  margin-top: 5px;
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+.job {
+  font-weight: bold !important;
+  font-size: 12px !important;
+  font-family: "Times New Roman", Times, serif !important;
+}

@@ -1,0 +1,70 @@
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+::-webkit-scrollbar-thumb {
+  background: #001529;
+  border-radius: 3px;
+}
+
+.img-person {
+  min-width: 100px;
+  min-height: 100px;
+}
+.namesurname {
+  margin-top: 5px;
+  font-weight: bold !important;
+  font-size: 18px !important;
+}
+.job {
+  font-weight: bold !important;
+  font-size: 12px !important;
+  font-family: "Times New Roman", Times, serif !important;
+}
+
+.img-person-list {
+  max-width: 30px;
+  max-height: 30px;
+  margin-right: 5px;
+}
+
+.person-name-list {
+  color: black;
+  font-family: "Times New Roman", Times, serif !important;
+}
+.about-txt {
+  margin-top: 8px !important;
+}
+.social-media {
+  text-align: center;
+}
+.faFacebook {
+  margin-left: 15px;
+}
+.faFacebook:hover {
+  color: blue;
+}
+.faTwitter {
+  margin-left: 15px;
+}
+.faTwitter:hover {
+  color: #4468d6;
+}
+.faInstagram {
+  margin-left: 15px;
+}
+.faInstagram:hover {
+  color: rgba(255, 0, 0, 0.667);
+}
+.faFlipboard {
+  margin-left: 15px;
+}
+.faFlipboard:hover {
+  color: red;
+}
+
+a {
+  color: hsla(0, 0%, 0%, 0.793) !important;
+}
