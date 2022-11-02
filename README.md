@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+ <img src="https://github.com/aksoy-dev/react-person-list/blob/main/source/1.gif?raw=true" width="700" />
+ 
+ ##  This package includes scripts and configuration used by Create React App.
+ ### `npm i react-scripts`
+
+## Json server
+### npm `install -g json-server`
+
+### `json-server --watch api/personList.json --port 3004`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
